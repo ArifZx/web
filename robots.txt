@@ -3,3 +3,4 @@ Disallow: /cgi-bin/
 Disallow: /css/
 Disallow: /error/
 Disallow: /js/
+Disallow: /img/
