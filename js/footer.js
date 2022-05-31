@@ -1,1 +1,1 @@
-class Footer extends HTMLElement{constructor(){super()}connectedCallback(){const e=(new Date).getFullYear();this.innerHTML=`&copy; ${e} Copyright: arifz.com`}}customElements.define("footer-component",Footer);
+class Footer extends HTMLElement{constructor(){super()}connectedCallback(){const e=(new Date).getFullYear();this.innerHTML=`&copy; ${e} Arif Budiman`}}customElements.define("footer-component",Footer);
