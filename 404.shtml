@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 Not Found</title>
+    <link rel="stylesheet" href="css/myStyle.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v6.1.1/css/brands.css"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v6.1.1/css/fontawesome.css"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="section">
+        <div class="container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-md-12 text-center">
+              <span class="display-1 d-block">404</span>
+              <div class="mb-4 lead">
+                The page you are looking for was not found.
+              </div>
+              <a href="https://web.arifz.com" class="btn btn-link"
+                >Back to Home</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center fixed-bottom footer">
+      <!-- Grid container -->
+      <div class="container p-1"></div>
+      <!-- Grid container -->
+
+      <a
+        class="text-decoration-none link-dark m-1"
+        href="https://www.linkedin.com/in/arif-budiman-4465bba2"
+        target="_blank"
+      >
+        <i class="fa-brands fa-linkedin-in p-2"></i>
+      </a>
+      <a
+        class="text-decoration-none link-dark m-1"
+        href="https://medium.com/@arifz"
+        target="_blank"
+      >
+        <i class="fa-brands fa-medium p-2"></i>
+      </a>
+      <a
+        class="text-decoration-none link-dark m-1"
+        href="https://github.com/ArifZx"
+        target="_blank"
+      >
+        <i class="fa-brands fa-github p-2"></i>
+      </a>
+      <br />
+
+      <!-- Copyright -->
+      <footer-component class="text-center p-3"></footer-component>
+      <!-- Copyright -->
+    </footer>
+
+    <script defer src="js/footer.js"></script>
+  </body>
+</html>
