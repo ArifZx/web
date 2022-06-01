@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} ^www\.web\.arifz\.com$
+RewriteRule ^/?$ "http\:\/\/web\.arifz\.com\/" [R=301,L]
