@@ -4,3 +4,6 @@ Disallow: /css/
 Disallow: /error/
 Disallow: /js/
 Disallow: /img/
+Allow: /img/favicon-32x32.png
+Allow: /js/footer.js
+Allow: /css/myStyle.css
